@@ -1,6 +1,10 @@
-name: brookr
+name: '– Brook Riggio – '
 analytics: {}
 github: true
+author:
+  name: Brook Riggio
+  url: brook.rigg.io
+  email: brook@rigg.io
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -8,22 +12,18 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-author:
-  name: Brook Riggio
-  url: brook.rigg.io
-  email: brook@rigg.io
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 content: []
 layout_spectrum: 0.0008380073122680187
 color:
@@ -41,3 +41,4 @@ content_rating:
   adult: false
 typography_spectrum: 0.9833828972186893
 opengraph: {}
+title: Brook's Blog
