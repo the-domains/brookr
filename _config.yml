@@ -8,7 +8,10 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-author: {}
+author:
+  name: Brook Riggio
+  url: brook.rigg.io
+  email: brook@rigg.io
 collections:
   - index:
       path: /
